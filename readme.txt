@@ -1,3 +1,4 @@
 just a test for git
 add a line
-creating a branch is quick & simple
+<<<<<<< HEAD
+creating a branch is quick and simple
